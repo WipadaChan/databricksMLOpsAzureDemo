@@ -1,7 +1,7 @@
 # mlFlow Registry QA & Prod pipeline 
 
 trigger:
-- master2
+- main
 
 pool:
   name: Hosted Ubuntu 1604
